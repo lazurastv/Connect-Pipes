@@ -1,0 +1,7 @@
+4 6 2
+empty empty empty empty empty startD
+empty empty full empty empty empty
+empty empty empty empty full full
+empty full empty empty empty empty
+empty empty finishL empty full finishU
+empty empty full empty startL full

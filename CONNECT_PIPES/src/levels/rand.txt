@@ -1,0 +1,6 @@
+2 3 2 16 3
+empty full empty empty finishR empty 
+empty empty full empty empty empty 
+empty empty full full empty full 
+empty empty full empty full full 
+startU full full full empty empty 

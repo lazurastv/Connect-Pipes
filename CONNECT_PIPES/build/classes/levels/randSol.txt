@@ -1,0 +1,6 @@
+2 3 2 16 3
+empty full empty empty finishR 1turnDL 
+1turnDR 1teleL full empty 1teleR 1turnLU 
+1pipeDU empty full full empty full 
+1pipeDU empty full empty full full 
+startU full full full empty empty 

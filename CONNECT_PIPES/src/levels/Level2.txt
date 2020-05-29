@@ -1,0 +1,5 @@
+2 3
+full full full startD
+finishR empty full empty
+full empty empty empty
+full empty full empty

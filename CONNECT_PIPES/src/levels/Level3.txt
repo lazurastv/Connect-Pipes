@@ -1,0 +1,5 @@
+0 4 2
+empty empty empty full empty full finishD
+empty empty empty empty empty empty empty
+empty empty full empty full empty empty
+startU empty empty empty empty empty empty
