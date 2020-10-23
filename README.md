@@ -1,3 +1,3 @@
 # Connect-Pipes
-Small game with the goal of connecting pipes
-Has procedurally generated levels, but isn't of great complexity.
+Java based game where the goal is to connect a fish to its fishbowl using pipes.
+The game features randomly generated levels and custom-made textures.
